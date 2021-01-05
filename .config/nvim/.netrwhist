@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/jordy/Projects/Programming/Personal/CliRPG'
+let g:netrw_dirhist_8='/home/jordy/.config/nvim'
+let g:netrw_dirhist_7='/home/jordy/.config'
+let g:netrw_dirhist_6='/home/jordy/.config/nvim'
+let g:netrw_dirhist_5='/home/jordy/.config/polybar'
+let g:netrw_dirhist_4='/home/jordy/.config/picom'
+let g:netrw_dirhist_3='/home/jordy/.config'
+let g:netrw_dirhist_2='/home/jordy/.config/picom'
+let g:netrw_dirhist_1='/home/jordy/.config/sxhkd'
